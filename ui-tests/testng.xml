@@ -1,0 +1,7 @@
+<suite name="DemoSuite">
+    <test name="LoginTests">
+        <classes>
+            <class name="com.demo.tests.LoginTest" />
+        </classes>
+    </test>
+</suite>
