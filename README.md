@@ -36,15 +36,21 @@ This project demonstrates UI and API test automation using:
 qa-e2e-automation/
 ├── ui-tests/
 │   ├── pages/
-│   ├── tests/
+│   ├── testcases/
+│   ├── testng.xml
+├── docs/
+│   ├── demo-sites.md
+├── performance-tests/
+│   ├── jmeter
 ├── api-tests/
 │   ├── postman/
-│   └── restassured/
+│   └── rest-assured/
 ├── .github/
 │   └── workflows/
 │       └── run-tests.yml
-├── README.md
+├── .gitignore
 └── pom.xml
+└── README.md
 
 
 ---
